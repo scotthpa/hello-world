@@ -3,4 +3,4 @@
 Hi Humans!
 
 Scott here, I like PHP, JQuery, MySQL and basically all new software technology.
-Learning, using and teaching technology.
+I love learning, using and teaching technology.
